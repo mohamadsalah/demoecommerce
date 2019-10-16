@@ -1,9 +1,10 @@
 <p>demo for ecomerce website</P>
 <p>social login</P>
 <p>ajax live search</P>
-<p>user profile </P>
+<p>user profile  (updating informations ,profile picture usin ajax) </P>
 <p>admin dashboard(approve , pin, remove) and controlling</P>
 <p>real time notifications(pussher,echo)</P>
+<p>laravel,javascribt,jquery,ajax,sass,bootstrap</P>
 
 
 
