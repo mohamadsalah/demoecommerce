@@ -1,3 +1,12 @@
+<p>demo for ecomerce website</P>
+<p>social login</P>
+<p>ajax live search</P>
+<p>user profile </P>
+<p>admin dashboard(approve , pin, remove) and controlling</P>
+<p>real time notifications(pussher,echo)</P>
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
